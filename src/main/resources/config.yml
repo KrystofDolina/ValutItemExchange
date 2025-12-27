@@ -1,3 +1,5 @@
+# Add items using their official Bukkit Material names
+# Prices are per single item
 prices:
   DIAMOND: 10.0
   EMERALD: 15.0
